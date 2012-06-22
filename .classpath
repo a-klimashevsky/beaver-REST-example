@@ -4,10 +4,9 @@
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/beaver-REST"/>
-	<classpathentry kind="lib" path="E:/eclipse/workspace/beaver-REST-example/libs/httpclient-4.1.2.jar"/>
-	<classpathentry kind="lib" path="E:/eclipse/workspace/beaver-REST-example/libs/httpclient-cache-4.1.2.jar"/>
-	<classpathentry kind="lib" path="E:/eclipse/workspace/beaver-REST-example/libs/httpcore-4.1.2.jar"/>
-	<classpathentry kind="lib" path="E:/eclipse/workspace/beaver-REST-example/libs/httpmime-4.1.2.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-cache-4.1.2.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-4.1.2.jar"/>
+	<classpathentry kind="lib" path="libs/httpmime-4.1.2.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
